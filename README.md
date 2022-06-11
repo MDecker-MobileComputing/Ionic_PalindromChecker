@@ -2,9 +2,10 @@
 
 <br>
 
-Ionic/Angular app representing a simple *Palindrome Checker*. 
+Ionic/Angular app representing a simple *Palindrome Checker*.
 The actual check is implemented in [PalindromService](src/app/palindrom.service.ts),
-which is to be put under unit test as exercise.
+which is to be put under unit test as exercise, i.e., unit tests are to be written in
+[this file](src/app/palindrom.service.spec.ts).
 
 <br>
 
