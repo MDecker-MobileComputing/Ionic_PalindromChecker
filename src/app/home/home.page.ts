@@ -34,11 +34,11 @@ export class HomePage {
     const istPalindrom = this.palindromService.checkePalindrom(eingabeTrimmed);
     if (istPalindrom) {
 
-      this.zeigeDialog("Ergebnis", `"${eingabeTrimmed}" ist ein Palindrom`);
+      this.zeigeDialog("Ergebnis", `"${eingabeTrimmed}" ist ein Palindrom.`);
 
     } else {
 
-      this.zeigeDialog("Ergebnis", `"${eingabeTrimmed}" ist kein Palindrom`);
+      this.zeigeDialog("Ergebnis", `"${eingabeTrimmed}" ist kein Palindrom.`);
     }
   }
 
