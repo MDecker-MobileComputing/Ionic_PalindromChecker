@@ -1,0 +1,6 @@
+{
+	"appId": "de.mide.ionic.palindromchecker",
+	"appName": "Palindrom-Checker",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

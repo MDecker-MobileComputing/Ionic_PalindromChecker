@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Palindrom-Checker</string>
+    <string name="title_activity_main">Palindrom-Checker</string>
+    <string name="package_name">de.mide.ionic.palindromchecker</string>
+    <string name="custom_url_scheme">de.mide.ionic.palindromchecker</string>
+</resources>

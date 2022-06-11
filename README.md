@@ -7,6 +7,17 @@ which is to be put under unit test as exercise.
 <br>
 
 ----
+
+## Screenshots ##
+
+<br>
+
+![Screenshot 1](screenshot_1.png) &nbsp; ![Screenshot 2](screenshot_2.png)
+
+<br>
+
+----
+
 ## License ##
 
 See the [LICENSE file](LICENSE.md) for license rights and limitations (BSD 3-Clause License)

@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'PalindromChecker',
+  appId: 'de.mide.ionic.palindromchecker',
+  appName: 'Palindrom-Checker',
   webDir: 'www',
   bundledWebRuntime: false
 };
