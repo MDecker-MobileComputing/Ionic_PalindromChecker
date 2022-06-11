@@ -17,7 +17,7 @@ export class PalindromService {
     const eingabeLaenge = eingabeNormalisiert.length;
 
     if (eingabeLaenge === 0) { return false; }
-    if (eingabeLaenge === 1) { return true; }
+    if (eingabeLaenge === 1) { return true;  }
 
     const anzahlChecks = Math.floor( eingabeLaenge / 2 );
 
