@@ -1,0 +1,7 @@
+{
+  "name": "PalindromChecker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
